@@ -1,3 +1,7 @@
+`WeiboKit` 是基于 `AFNetworking` 做的微博 SDK，OAuth 2.0+ARC.
+
+----
+
 新浪微博 SDK，支持 OAuth 2.0 认证，支持 ARC。基于官方 SDK [SinaWeiBoSDK2][1] 修改，`WBRequest` 直接使用了官方封装，不支持 ARC，在 ARC 下要添加 `-fno-objc-arc` flag.
 
 #### 使用
