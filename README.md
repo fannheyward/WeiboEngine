@@ -1,4 +1,4 @@
-`WeiboKit` 是基于 `AFNetworking` 做的微博 SDK，OAuth 2.0+ARC.
+`WeiboKit` 是基于 `AFNetworking` 做的微博 SDK，OAuth 2.0+ARC. 跟多信息详见 [README](https://github.com/fannheyward/WeiboEngine/blob/master/WeiboKit/README.md).
 
 ----
 
